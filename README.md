@@ -12,6 +12,7 @@ This repository is used to practice Git workflows, including branching, pull req
 ## 📁 Structure
 - `notes.txt` → used for tracking incremental changes
 
+
 ## 🚀 Usage
 Each update introduces a small change to simulate real-world commits and pull requests.
 
