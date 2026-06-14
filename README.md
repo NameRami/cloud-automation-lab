@@ -16,5 +16,4 @@ This repository is used to practice Git workflows, including branching, pull req
 ## 🚀 Usage
 Each update introduces a small change to simulate real-world commits and pull requests.
 
-## 👤 Author
-Rami elta
+
